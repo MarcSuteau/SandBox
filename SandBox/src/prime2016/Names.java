@@ -10,6 +10,7 @@ public class Names {
 		System.out.println("Marc Suteau");
 		System.out.println("Mael Boulange");
 		System.out.println("Thomas Le Faouder");
+		System.out.println("Felix Poirier");
 	}
 
 }
