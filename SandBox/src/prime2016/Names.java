@@ -8,8 +8,8 @@ public class Names {
 
 	public static void main() {
 		System.out.println("Marc Suteau");
-		System.out.println("Maël Boulangé");
-
+		System.out.println("Maï¿½l Boulangï¿½");
+		System.out.println("Thomas Le Faouder");
 	}
 
 }
